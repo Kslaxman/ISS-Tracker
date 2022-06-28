@@ -5,7 +5,7 @@ from datetime import datetime
 import smtplib
 
 MY_EMAIL = "sailaxmankotha@yahoo.com"
-MY_PASSWORD = "wggqkmjdtljafxwk"
+MY_PASSWORD = "Thisnotmyemail"
 
 MY_LAT = 51.507351  # Your latitude
 MY_LONG = -0.127758  # Your longitude
